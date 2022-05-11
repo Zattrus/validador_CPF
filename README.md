@@ -1,2 +1,2 @@
-# validador_CPF
-Validando CPFs com javaScript
+# Validador-de-CPF
+Validando CPFs com JavaScript
